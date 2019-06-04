@@ -1,6 +1,6 @@
 # Gaussian Process (GP)
 
-Python implementations of Gaussian Process based on Girard [1] and the Matlab implementation.
+Python implementations of Gaussian Process based on Girard [1] and on the Matlab implementation.
 
 
 
